@@ -15,7 +15,7 @@ class App extends Component {
 	};
 
 	render() {
-		const { currentZoom, messages } = this.state;
+		const { currentZoom } = this.state;
 		return (
 			<div>
 				<div className="zoom-bar">
