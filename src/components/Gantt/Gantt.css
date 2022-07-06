@@ -1,3 +1,5 @@
 .gantt-container {
-  height: calc(100vh - 50px - 200px);
+	height: calc(100vh - 50px - 200px);
+	margin: auto;
+	width: 70%;
 }
